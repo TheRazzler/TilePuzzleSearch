@@ -5,7 +5,7 @@
 public class AStar {
   /** 
    * The main method, starts the program
-   * @author Spencer Yoder
+   * @param args command-line arguments
    */
   public static void main(String[] args) {
     //The initial configuration of the board
